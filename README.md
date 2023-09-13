@@ -1,7 +1,10 @@
 From Leetcode problem at:  
+https://leetcode.com/problems/intersection-of-two-linked-lists/description/  
 
+My solution was accepted on Leetcode.  
 
-Intersection of Two Linked Lists  
+**Problem description:**  
+**Intersection of Two Linked Lists ** 
 Solved  
 Easy  
 
