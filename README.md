@@ -4,7 +4,7 @@ https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 My solution was accepted on Leetcode.  
 
 **Problem description:**  
-**Intersection of Two Linked Lists ** 
+**Intersection of Two Linked Lists**  
 Solved  
 Easy  
 
